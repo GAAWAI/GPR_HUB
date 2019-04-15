@@ -1,4 +1,5 @@
 function Round_DIN1333(Value,Uncertainty)
+% Return the value and its uncertainty in accordance with the DIN1333 Rules
 
 
 % Calculate the position of the FSB
