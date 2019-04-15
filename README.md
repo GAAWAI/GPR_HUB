@@ -1,5 +1,7 @@
+Institut für Physik der Humboldt-Universität zu Berlin
 # Physikalisches Grundpraktikum
-### Institut für Physik der Humboldt-Universität zu Berlin
+
+The course website https://gpr.physik.hu-berlin.de/gpr.html
 
 Here are some useful MATLAB function for writting the lab reports.
 1. Evaluation programm for the experiment of Kater's pendulum (Reversionspendel).
